@@ -1,6 +1,7 @@
 ---
 title: "Operations"
 permalink: /operations/
+layout: single
 ---
 
 ## Instruments
