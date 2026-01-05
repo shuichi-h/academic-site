@@ -4,7 +4,7 @@ permalink: /instruments/
 layout: single
 ---
 
-This page covers laboratory instruments used and maintained by Shuichi Haraguchi in research practice.    
+This page documents laboratory instruments used in research activities, with notes based on practical, hands-on experience.
 For each instrument, relevant SOPs, practical operation tips, and troubleshooting records are documented for reference.  
 For questions related to specific instruments, please contact me by email.  
 
