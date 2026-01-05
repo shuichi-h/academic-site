@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This site documents personal research activities,
+This site documents research activities by Shuichi Haraguchi,
 including experimental tools, laboratory operations,
 and practical know-how developed through everyday research work.
 
