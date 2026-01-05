@@ -5,7 +5,7 @@ author_profile: true
 ---
 ← [Back to Instruments](/academic-site/instruments/)
 
-## Thermogravimetric Analysis (TGA)
+# Thermogravimetric Analysis (TGA)
 ## Model
 Mettler Toledo TGA/DSC3+
 
