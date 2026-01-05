@@ -4,8 +4,10 @@ permalink: /instruments/tga/
 layout: single
 author_profile: true
 ---
+← [Back to Instruments](/academic-site/instruments/)
 
-## Instrument
+# Thermogravimetric Analysis (TGA)
+## Model
 Mettler Toledo TGA/DSC3+
 
 ## SOP
@@ -19,7 +21,7 @@ Mettler Toledo TGA/DSC3+
 - Do not overload the crucible.Use a lid if necessary.
 
 ## Troubleshooting
-### 2024-12-16 — Heating error
+### 2025-12-16 — Heating error
 **Symptom**  
 TGA cannot heat up to the starting temperature (e.g. 35 °C).
 Cell temperature shows an unrealistic value of 12 °C.
