@@ -4,4 +4,5 @@ permalink: /tools/
 layout: single
 ---
 
-Original tools or recommended tools are here.
+This page documents original and recommended tools developed or used in research practice.
+
