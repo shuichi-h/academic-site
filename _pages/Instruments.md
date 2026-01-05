@@ -3,8 +3,6 @@ permalink: /instruments/
 layout: single
 ---
 
-## Instruments
-
 This page covers laboratory instruments under Shuichi Haraguchi’s responsibility.
 For each instrument, relevant SOPs, practical operation tips, and troubleshooting records are documented for reference.
 For questions related to specific instruments, please contact me by email.
