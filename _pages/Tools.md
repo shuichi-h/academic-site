@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-permalink: /Tools/
+permalink: /tools/
 layout: single
 ---
 
