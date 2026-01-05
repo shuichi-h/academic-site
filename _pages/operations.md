@@ -1,6 +1,6 @@
 ---
-title: "Operations"
-permalink: /operations/
+title: "Tools"
+permalink: /Tools/
 layout: single
 ---
 
