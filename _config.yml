@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shuichi Haraguchi"
+title                    : "Shuichi Haraguchi / Research and lab management notes"
 title_separator          : "-"
 name                     : &name "Shuichi Haraguchi / Research and lab management notes"
 description              : &description "Research tools, operations, and notes for experimental work"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shuichi Haraguchi"
-  pronouns         : "-"  
-  bio              : "-"
+  pronouns         :   
+  bio              : 
   location         : "Sweden"
   employer         : "Chalmers University of Technology"
   uri              : # URL
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL"https://www.chalmers.se/en/persons/shuichi/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3106-1637"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "-"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "-" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
