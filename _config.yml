@@ -9,13 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shuichi Haraguchi / StructLab"
+title                    : "Shuichi Haraguchi"
 title_separator          : "-"
 name                     : &name "Shuichi Haraguchi"
 description              : &description "Research tools, operations, and notes for experimental work"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://shuichi-h.github.io"
 baseurl                  : "/academic-site"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shuichi-h/academic-site"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
