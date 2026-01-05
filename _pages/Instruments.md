@@ -1,4 +1,5 @@
 ---
+title: "Instruments"
 permalink: /instruments/
 layout: single
 ---
