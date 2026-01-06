@@ -19,7 +19,7 @@ Mettler Toledo TGA/DSC3+
 - Remember, the crucibles are alumina.Always consider possible reactions with your sample.
 - Do not overload the crucible.Use a lid if necessary.
 
-## Troubleshooting
+## Log (Error, Troubleshooting)
 ### 2025-12-16 — Heating error
 **Symptom**  
 TGA cannot heat up to the starting temperature (e.g. 35 °C).
