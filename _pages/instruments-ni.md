@@ -1,10 +1,10 @@
 ---
+title: Nanoindentaion (NI)
 permalink: /instruments/ni/
 layout: single
 author_profile: true
 ---
 
-# Nanoindentaion (NI)
 ## Model
 Bruker TI Premier
 
