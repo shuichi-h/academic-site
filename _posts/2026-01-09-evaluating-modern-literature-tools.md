@@ -1,11 +1,15 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Evaluating Modern Literature Exploration Tools'
+subtitle: "A Hands-on Log Using Epoxy Vitrimer as a Case Study"
+date: 2026-01-0
+categories:
+  - research-notes
 tags:
-  - cool posts
-  - category1
-  - category2
+  - literature-mapping
+  - bibliometrics
+  - methodology
+  - epoxy-vitrimer
+author_profile: true
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
