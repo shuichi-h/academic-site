@@ -9,6 +9,6 @@ For each instrument, relevant SOPs, practical operation tips, and troubleshootin
 For questions related to specific instruments, please contact me by email.  
 
 - [TGA – Thermogravimetric Analysis](/academic-site/instruments/tga/)
-- [DSC – Differential Scanning Calorimetry](/instruments/dsc/)
-- [DMA – Dynamic Mechanical Analysis](/instruments/dma/)
-- [DVS – Dynamic Vapor Sorption](/instruments/dvs/)
+- [DSC – Differential Scanning Calorimetry](/academic-site/instruments/dsc/)
+- [DMA – Dynamic Mechanical Analysis](/academic-site/instruments/dma/)
+- [DVS – Dynamic Vapor Sorption](/academic-site/instruments/dvs/)
