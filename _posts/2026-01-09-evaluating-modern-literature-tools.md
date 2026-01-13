@@ -1,7 +1,7 @@
 ---
 title: 'Evaluating Modern Literature Exploration Tools'
 subtitle: "A Hands-on Log Using Epoxy Vitrimer as a Case Study"
-date: 2026-01-0
+date: 2026-01-13
 categories:
   - research-notes
 tags:
@@ -10,18 +10,6 @@ tags:
   - methodology
   - epoxy-vitrimer
 author_profile: true
----
----
-title: "Evaluating Modern Literature Exploration Tools"
-subtitle: "A Hands-on Log Using Epoxy Vitrimer as a Case Study"
-date: 2026-01-13
-permalink: /research-notes/literature-exploration-tools-epoxy-vitrimer/
-tags:
-  - literature review
-  - research tools
-  - meta-science
-  - epoxy vitrimer
-  - bibliometrics
 ---
 
 ## 1. Motivation
