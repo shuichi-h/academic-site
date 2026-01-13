@@ -3,7 +3,6 @@ permalink: /instruments/tga/
 layout: single
 author_profile: true
 ---
-← [Back to Instruments](/academic-site/instruments/)
 
 # Thermogravimetric Analysis (TGA)
 ## Model
@@ -34,3 +33,6 @@ Full furnace replacement planned.
 
 **Status**  
 Waiting.
+
+
+← [Back to Instruments](/academic-site/instruments/)
