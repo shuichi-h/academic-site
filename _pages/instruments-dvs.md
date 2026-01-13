@@ -1,10 +1,10 @@
 ---
+title: DVS – Dynamic Vapor Sorption
 permalink: /instruments/dvs/
 layout: single
 author_profile: true
 ---
 
-# DVS – Dynamic Vapor Sorption
 ## Model
 Surface Measurement Systems, DVS Adventure
 
