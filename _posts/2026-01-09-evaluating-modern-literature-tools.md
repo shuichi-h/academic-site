@@ -11,253 +11,226 @@ tags:
   - epoxy-vitrimer
 author_profile: true
 ---
+---
+title: "Evaluating Modern Literature Exploration Tools"
+subtitle: "A Hands-on Log Using Epoxy Vitrimer as a Case Study"
+date: 2026-01-13
+permalink: /research-notes/literature-exploration-tools-epoxy-vitrimer/
+tags:
+  - literature review
+  - research tools
+  - meta-science
+  - epoxy vitrimer
+  - bibliometrics
+---
 
-#1. Purpose and Background
+## 1. Motivation
 
-In recent years, the explosive growth of academic publications has made deciding what to read a research problem in itself.
+In recent years, the volume of scientific literature has grown beyond what individual researchers can reasonably track by manual reading alone.  
+At the same time, a wide range of **literature exploration tools** has emerged, each claiming to support more efficient discovery, mapping, and understanding of research fields.
 
-The aim of this note is not to review a specific scientific topic, but to address the following question:
+The purpose of this note is **not** to review epoxy vitrimer chemistry itself, but to evaluate **how modern literature exploration tools perform in practice**, using *epoxy vitrimers* as a concrete and realistic case study.
 
-How can researchers more effectively explore and grasp the structure of a research field using modern literature exploration tools?
+The central question is:
 
-This study evaluates what recent tools can and cannot do when applied to the same research question, using epoxy vitrimer as a concrete case study.
+> *What can current tools actually help researchers understand, without reading every paper?*
 
-The focus is not on vitrimer chemistry itself, but on the capabilities, limitations, and underlying assumptions of the tools.
+---
 
+## 2. Scope and Tools Evaluated
 
-#2. Evaluated Tools and Disciplinary Background
+The following tools were evaluated hands-on:
 
-The following tools were evaluated in this study:
+- [Google Scholar](https://scholar.google.com/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [OpenAlex](https://openalex.org/)
+- [Connected Papers](https://www.connectedpapers.com/)
+- [ResearchRabbit](https://www.researchrabbit.ai/)
+- [The Lens](https://www.lens.org/)
+- [VOSviewer](https://www.vosviewer.com/)
 
-Google Scholar
+These tools originate from overlapping but distinct research communities, including **bibliometrics**, **scientometrics**, **science-of-science**, and **information retrieval**.
 
-Semantic Scholar
+---
 
-OpenAlex
+## 3. Google Scholar
 
-Connected Papers
+### Overview
+Google Scholar is the most widely used academic search engine.  
+Its strengths lie in coverage and accessibility, but it offers limited transparency and reproducibility.
 
-ResearchRabbit
+### Procedure
+- Keyword search: `"epoxy vitrimer"`
+- Review filter enabled when possible
+- Manual inspection of highly cited results
 
-The Lens
+### Results
+- Thousands of results retrieved
+- Review articles identifiable but mixed with primary research
+- Citation counts visible, but no structured export
 
-VOSviewer
+### Observations
+- Excellent as an **entry point**
+- Poor for systematic mapping or reproducibility
+- Search results occasionally unstable
 
-Most of these tools are built upon concepts from:
+---
 
-Bibliometrics and Scientometrics
+## 4. Semantic Scholar
 
-Science Mapping
+### Overview
+Semantic Scholar applies AI-based methods to citation analysis, relevance ranking, and paper summarization.
 
-Information Retrieval
+### Procedure
+- Same keyword search as Google Scholar
+- Sorting by citation count and influential papers
 
-Network Science
+### Results
+- More structured metadata than Google Scholar
+- No reliable “Review-only” filter for this topic
+- Citation-based ranking helpful but opaque
 
-A key premise of this evaluation is that each tool operationalizes a different notion of “distance” or “importance” in the literature, which fundamentally shapes what can be observed.
+### Observations
+- Useful for **paper-level inspection**
+- Less suitable for field-level overview
 
+---
 
-#3. Hands-on Evaluation Log
+## 5. OpenAlex
 
-The tools are discussed below in the order they were actually tested, following a log-style structure: overview, procedure, result, and reflection.
+### Overview
+OpenAlex is an open scholarly knowledge graph designed as a replacement for proprietary bibliographic databases.
 
-3.1 Google Scholar
-Overview
+### Procedure
+- Search query: `"epoxy vitrimer"`
+- Initial restriction to review articles
+- Later expanded to all article types
 
-Google Scholar is the most widely used academic search engine, with its primary strength being its sheer coverage.
+### Results
+- ~800 articles retrieved for epoxy vitrimers
+- Rich metadata: concepts, institutions, years
+- Data export and API access available
 
-Procedure
+### Observations
+- Ideal as a **transparent data backbone**
+- Requires downstream tools for visualization
 
-Searches were performed using keywords such as:
+---
 
-epoxy vitrimer
-epoxy vitrimer review
+## 6. Connected Papers
 
-Results
+### Overview
+Connected Papers visualizes a **local citation neighborhood** around a single seed paper.
 
-Several thousand results were returned.
+### Procedure
+- Seeded with representative review articles
+- Explored prior and derivative works
 
-Review articles were included, but could not be reliably filtered.
+### Results
+- Clear visualization of citation relationships
+- Dense but localized clusters
+- Limited to one seed paper at a time
 
-Sorting by citation count was unstable, and results varied between sessions.
+### Observations
+- Excellent for **contextualizing a known paper**
+- Not suitable for global field mapping
 
-Reflection
+---
 
-Google Scholar functions well as an entry point for exploration, but:
+## 7. ResearchRabbit
 
-It provides little reproducibility.
+### Overview
+ResearchRabbit focuses on discovering **similar and related papers** through iterative exploration.
 
-It offers no insight into field structure or conceptual organization.
+### Procedure
+- Multiple review articles added as seeds
+- Similarity-based expansion explored
 
-It is a search tool, not a mapping tool.
+### Results
+- Large result sets (thousands of papers)
+- Graph structure reflects similarity, not topics
+- Pagination limits obscure global structure
 
-3.2 Semantic Scholar
-Overview
+### Observations
+- Strong for **literature discovery**
+- Weak for explicit field segmentation
 
-Semantic Scholar emphasizes AI-based relevance ranking and citation analysis.
+---
 
-Procedure
+## 8. The Lens
 
-The same keywords were used, and results were sorted by influence and relevance.
+### Overview
+The Lens integrates **academic literature and patents** into a single platform.
 
-Results
+### Procedure
+- Patent search: `(epoxy AND vitrimer)`
+- Extended with thermal-related keywords
+- Comparison between academic and patent trends
 
-Approximately 4,400 results were retrieved.
+### Results
+- Hundreds of relevant patents identified
+- Clear industrial actors and temporal trends
+- Boolean queries critical for precision
 
-Review articles were not explicitly categorized.
+### Observations
+- Unique strength in **science–technology linkage**
+- Essential for application-oriented analysis
 
-Influence scores were useful but opaque in definition.
+---
 
-Reflection
+## 9. VOSviewer
 
-Semantic Scholar is effective for initial identification of potentially important papers, but:
+### Overview
+VOSviewer is a bibliometric visualization tool focusing on **co-occurrence and network structure**.
 
-It is difficult to justify why certain papers are prioritized.
+### Procedure
+- Keyword co-occurrence map generated for epoxy vitrimer literature
+- Binary counting applied
+- ~140 keywords selected
 
-It does not provide a structural overview of the field.
+### Results
+- Clusters corresponding to:
+  - Chemistry and exchange reactions
+  - Mechanical properties and healing
+  - Composites and reinforcement
+  - Sustainability and bio-based materials
+- Thermal-related terms ranked quantitatively
 
-3.3 OpenAlex
-Overview
+### Example Insight
+Thermal-related terms appeared **within the top 10–20 keywords**, indicating that thermal performance is **important but not dominant** within the epoxy vitrimer literature.
 
-OpenAlex is an open scholarly metadata platform and successor to Microsoft Academic Graph.
+### Observations
+- Best tool for **field-level structure**
+- Requires careful interpretation of parameters
 
-Procedure
+---
 
-Searches for “epoxy vitrimer” were conducted to define the document corpus.
+## 10. Cross-Tool Comparison
 
-Results
+| Tool | Primary Strength | Limitation |
+|----|----|----|
+| Google Scholar | Coverage | Low reproducibility |
+| Semantic Scholar | Paper-level insight | Limited field overview |
+| OpenAlex | Transparent data | Needs external tools |
+| Connected Papers | Local context | Single-seed limitation |
+| ResearchRabbit | Discovery | Weak global structure |
+| The Lens | Patents + papers | Query sensitivity |
+| VOSviewer | Structural mapping | Parameter dependence |
 
-Approximately 800 relevant papers were identified.
+---
 
-Metadata and filters were explicit, though visualization capabilities were limited.
+## 11. Reflections
 
-Reflection
+No single tool provides a complete picture.
 
-OpenAlex is best understood as infrastructure rather than an analysis tool.
-Its primary value lies in defining transparent and reproducible corpora for downstream analysis.
+Instead, an effective workflow emerges:
 
-3.4 Connected Papers
-Overview
+1. **Search** (Google Scholar / Semantic Scholar)  
+2. **Structure** (OpenAlex → VOSviewer)  
+3. **Contextualize** (Connected Papers / ResearchRabbit)  
+4. **Translate to application** (The Lens)
 
-Connected Papers visualizes citation-based relationships, such as co-citation and bibliographic coupling.
+This layered approach enables researchers to move from **information overload** toward **conceptual understanding**.
 
-Procedure
 
-Representative review articles were used as seeds to generate citation graphs.
-Multiple maps were generated using different starting papers.
 
-Results
-
-The resulting graphs formed largely single, cohesive clusters.
-
-Foundational papers appeared at the periphery.
-
-Application-oriented concepts (e.g., thermal performance) were not visible.
-
-Reflection
-
-Connected Papers captures historical and genealogical proximity, not conceptual or application-level prominence.
-
-It is well suited for tracing research lineages, but not for assessing field structure or thematic emphasis.
-
-3.5 ResearchRabbit
-Overview
-
-ResearchRabbit is a recommendation-oriented discovery tool designed to surface related literature.
-
-Procedure
-
-Collections were created using multiple review papers, and “Similar Works” and timeline views were examined.
-
-Results
-
-Approximately 2,000 related papers were suggested.
-
-Results were paginated and grouped loosely by similarity.
-
-Some degree of topic dispersion was observable.
-
-Reflection
-
-ResearchRabbit is valuable for discovering additional relevant papers and reducing omission, but:
-
-The notion of similarity is not transparent.
-
-Quantitative comparison and structural positioning are not supported.
-
-It functions best as a complementary exploration tool.
-
-3.6 VOSviewer
-Overview
-
-VOSviewer enables bibliometric mapping based on keyword co-occurrence, citation, or authorship networks.
-
-Procedure
-
-A keyword co-occurrence analysis was performed using “epoxy vitrimer” as the search term.
-
-Binary counting and a minimum occurrence threshold of five were applied.
-
-The top 140 keywords were extracted and exported as JSON.
-
-The JSON file was further analyzed using Python to generate complete rankings.
-
-Results
-
-All keywords were ranked by occurrence frequency.
-
-Thermal-related terms such as:
-
-high temperature
-
-thermal property
-
-high glass transition temperature
-appeared in the 10th–17th range.
-
-Reflection
-
-Thermal performance is:
-
-Not a peripheral concept,
-
-Yet not a core organizing principle of the field.
-
-Instead, it functions as a recurring evaluation axis within a broader design-oriented discourse.
-
-3.7 The Lens
-Overview
-
-The Lens integrates scholarly literature and patents, enabling analysis of application-oriented framing.
-
-Procedure
-
-Patent searches were conducted using:
-
-(epoxy AND vitrimer)
-
-
-followed by performance-oriented constraints:
-
-("thermal stability" OR "heat resistance" OR "heat resistant")
-
-Results
-
-523 patents were identified in the baseline corpus.
-
-162 patents (~30%) explicitly emphasized thermal performance.
-
-Reflection
-
-Unlike academic literature, patents foreground application requirements and performance claims.
-
-The contrast reveals a clear divergence between academic conceptual structure and technological framing.
-
-4. Cross-Tool Comparison
-Tool	What it Measures	Role in This Study
-Google Scholar	Textual matching	Entry point
-Semantic Scholar	AI-ranked relevance	Initial filtering
-OpenAlex	Scholarly metadata	Corpus definition
-Connected Papers	Citation genealogy	Context tracing
-ResearchRabbit	Similarity (opaque)	Discovery support
-VOSviewer	Conceptual co-occurrence	Structural analysis
-The Lens	Application framing	Academic–patent contrast
