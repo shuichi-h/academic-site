@@ -1,10 +1,10 @@
 ---
+title: Thermogravimetric Analysis (TGA)
 permalink: /instruments/tga/
 layout: single
 author_profile: true
 ---
 
-# Thermogravimetric Analysis (TGA)
 ## Model
 Mettler Toledo TGA/DSC3+
 
