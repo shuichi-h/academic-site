@@ -2,8 +2,6 @@
 title: 'Evaluating Modern Literature Exploration Tools'
 subtitle: "A Hands-on Log Using Epoxy Vitrimer as a Case Study"
 date: 2026-01-13
-categories:
-  - research-notes
 tags:
   - literature-mapping
   - bibliometrics
