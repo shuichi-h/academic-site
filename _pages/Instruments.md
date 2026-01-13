@@ -12,3 +12,5 @@ For questions related to specific instruments, please contact me by email.
 - [DSC – Differential Scanning Calorimetry](/academic-site/instruments/dsc/)
 - [DMA – Dynamic Mechanical Analysis](/academic-site/instruments/dma/)
 - [DVS – Dynamic Vapor Sorption](/academic-site/instruments/dvs/)
+- [NI – Nanoindentation](/academic-site/instruments/NI/)
+
