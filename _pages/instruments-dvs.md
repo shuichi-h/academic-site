@@ -3,7 +3,6 @@ permalink: /instruments/dvs/
 layout: single
 author_profile: true
 ---
-← [Back to Instruments](/academic-site/instruments/)
 
 # DVS – Dynamic Vapor Sorption
 ## Model
@@ -34,3 +33,4 @@ Replace DVS?
 **Status**  
 Waiting.
 
+← [Back to Instruments](/academic-site/instruments/)
