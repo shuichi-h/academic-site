@@ -17,7 +17,7 @@ author_profile: true
 In recent years, the volume of scientific literature has grown beyond what individual researchers can reasonably track by manual reading alone.  
 At the same time, a wide range of **literature exploration tools** has emerged, each claiming to support more efficient discovery, mapping, and understanding of research fields.
 
-The purpose of this note is **not** to review epoxy vitrimer chemistry itself, but to evaluate **how modern literature exploration tools perform in practice**, using *epoxy vitrimers* as a concrete and realistic case study.
+The purpose of this note is to evaluate **how modern literature exploration tools perform in practice**, using *epoxy vitrimers* as a concrete and realistic case study.
 
 The central question is:
 
