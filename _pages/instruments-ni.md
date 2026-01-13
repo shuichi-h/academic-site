@@ -3,7 +3,6 @@ permalink: /instruments/ni/
 layout: single
 author_profile: true
 ---
-← [Back to Instruments](/academic-site/instruments/)
 
 # Nanoindentaion (NI)
 ## Model
@@ -34,3 +33,5 @@ Full furnace replacement planned.
 
 **Status**  
 Waiting.
+
+← [Back to Instruments](/academic-site/instruments/)
