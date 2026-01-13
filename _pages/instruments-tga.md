@@ -1,4 +1,5 @@
 ---
+title: Thermal gravity analysis (TGA) 
 permalink: /instruments/tga/
 layout: single
 author_profile: true
