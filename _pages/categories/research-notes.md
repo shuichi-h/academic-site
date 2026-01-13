@@ -2,6 +2,7 @@
 layout: single
 title: "Research Notes"
 permalink: /categories/research-notes/
+category: research-notes
 author_profile: true
 ---
 
