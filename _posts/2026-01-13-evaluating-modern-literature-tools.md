@@ -92,7 +92,7 @@ First, I tried Google Scholar, the most widely used tool. Google Scholar is the 
 - However, some non-reviews still appeared to be included, and the number of hits varied with each search, raising doubts about stability.
 - Additionally, to find important reviews from the results, I wanted to sort by citation, for example, but no such function was found.
   
-  ![](/images/image.png)
+  ![](/images/images_pages_posts/image.png)
 
 ### Observations
 - Appears excellent as an **entry point**.
@@ -124,8 +124,8 @@ Semantic Scholar applies AI-based methods to citation analysis, relevance rankin
 - Approximately 4400 results were retrieved.
 - However, no filter function was found to extract only true reviews from here.
   
-  ![alt text](image-2.png)
-  ![alt text](image-3.png)
+  ![](/images/images_pages_posts/image-2.png)
+    ![](/images/images_pages_posts/image-3.png)
 
 ### Observations
 - No particular advantages were felt this time.
@@ -160,7 +160,7 @@ OpenAlex is named after the Library of Alexandria and serves as an open-access b
 - However, once they do, all information such as Works, Stats, Topics, and Types is displayed at once, which is very good.
 - For this keyword, 30 hits were obtained, and further restricting to Type=review resulted in 7 results.
   
-  ![alt text](image-1.png)
+    ![](/images/images_pages_posts/image-1.png)
 
 ### Observations
 - Compared to Google Scholar's large number of search results, here only 7 were obtained, showing a significant difference. OpenAlex might be suitable for finding desired papers with reduced noise.
