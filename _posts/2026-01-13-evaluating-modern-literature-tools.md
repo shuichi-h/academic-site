@@ -92,7 +92,13 @@ First, I tried Google Scholar, the most widely used tool. Google Scholar is the 
 - However, some non-reviews still appeared to be included, and the number of hits varied with each search, raising doubts about stability.
 - Additionally, to find important reviews from the results, I wanted to sort by citation, for example, but no such function was found.
 
-![]({{site.baseurl}}/images/images_pages_posts/image.png)
+![](../images/images_pages_posts/img_2026-01-16-23-21-14.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-21-14.png) -->
+
+![](../images/images_pages_posts/img_2026-01-16-23-21-29.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-21-29.png) -->
 
 ### Observations
 - Appears excellent as an **entry point**.
@@ -113,6 +119,9 @@ Semantic Scholarは、引用分析、関連性ランキング、論文要約にA
 
 ### 観察
 - 今回は特にメリットを感じられず -->
+![](../images/images_pages_posts/img_2026-01-16-23-18-54.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-18-54.png) -->
 
 ### Overview
 Semantic Scholar applies AI-based methods to citation analysis, relevance ranking, and paper summarization.
@@ -122,9 +131,10 @@ Semantic Scholar applies AI-based methods to citation analysis, relevance rankin
 
 ### Results
 - Approximately 4400 results were retrieved.
-- However, no filter function was found to extract only true reviews from here.
-  
-  ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-18-33-01.png)
+- However, no filter function was found to extract only true reviews from here.<br>
+  ![](../images/images_pages_posts/img_2026-01-16-23-19-08.png)
+  <!-- Jekyll/GitHub Pages用 -->
+  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-19-08.png) -->
   
 ### Observations
 - No particular advantages were felt this time.
@@ -132,6 +142,9 @@ Semantic Scholar applies AI-based methods to citation analysis, relevance rankin
 ---
 
 ## 5. OpenAlex
+![](../images/images_pages_posts/img_2026-01-16-23-18-12.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-18-12.png) -->
 
 <!-- ### 概要
 OpenAlexは、アレクサンドリア図書館にちなんで名付けられた、オープンアクセスでアクセスできる科学論文、著者、機関の書誌カタログです。2022年1月、OurResearchによって、廃止されたMicrosoft Academic Graphの後継として運用を開始とのこと。詳細は公式Webページ参照
@@ -159,7 +172,9 @@ OpenAlex is named after the Library of Alexandria and serves as an open-access b
 - However, once they do, all information such as Works, Stats, Topics, and Types is displayed at once, which is very good.
 - For this keyword, 30 hits were obtained, and further restricting to Type=review resulted in 7 results.
   
-    ![](/images/images_pages_posts/image-1.png)
+  ![](../images/images_pages_posts/img_2026-01-16-22-59-27.png)
+  <!-- Jekyll/GitHub Pages用 -->
+  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-22-59-27.png) -->
 
 ### Observations
 - Compared to Google Scholar's large number of search results, here only 7 were obtained, showing a significant difference. OpenAlex might be suitable for finding desired papers with reduced noise.
@@ -195,6 +210,9 @@ Connected Papersは、単一のシード論文周辺の**ローカル引用近�
 - 例えば自分の論文の周辺状況の確認や過去の論文の今の周辺状況の確認など
 - しかし今回の目的はEpoxy vitrimerの全体像の把握であり、その場合一方づつ確認するこのコンセプトは適さない。-->
 
+  ![](../images/images_pages_posts/img_2026-01-16-23-04-10.png)
+  <!-- Jekyll/GitHub Pages用 -->
+  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-04-10.png) -->
 ### Overview
 Connected Papers visualizes the **local citation neighborhood** around a single seed paper.
 This time, using the 7 papers obtained from OpenAlex, I attempted to visualize surrounding papers to evaluate whether the overall picture of this field could be grasped.
@@ -206,6 +224,11 @@ This time, using the 7 papers obtained from OpenAlex, I attempted to visualize s
 
 ### Results
 - For the first paper, a graph like the following was obtained.
+  
+  ![](../images/images_pages_posts/img_2026-01-16-23-02-54.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-02-54.png) -->
+
 - It can be seen that multiple papers form a network surrounding the searched paper at the center.
 - Darker colors indicate newer papers, and the size of the circles seems to indicate the importance in the field.
 - For example, Leibler's paper, which is the pioneer of vitrimers, also hit here, and it was located slightly outside the cluster. This indicates that the concept has been shifting gradually.
@@ -213,6 +236,11 @@ This time, using the 7 papers obtained from OpenAlex, I attempted to visualize s
 - Next, I created a graph using the second paper as well.
 - A drawback is that Connected Papers allows only 5 graph creations per month for free accounts.
 - The graph for the second paper looked like the following.
+  
+    ![](../images/images_pages_posts/img_2026-01-16-23-04-55.png)
+  <!-- Jekyll/GitHub Pages用 -->
+  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-04-55.png) -->
+
 - Connected Papers is a tool that visualizes not only who cites whom, but also which literature context it belongs to, and it is said to evaluate not just simple citations but context.
 - In this second paper, Leibler's name did not appear.
 - This second paper is a review on creating vitrimers using bio-derived materials, indicating that a subfield has already formed here.
@@ -245,7 +273,9 @@ Connected papersは一本の論文から深く探索するツールであった�
 ### 観察
 - Research Rabbitは“discover papers you might not have found otherwise”を目的に設計されていると明言しているようで、確かに特定の論文から新しい文献を発見するにはよいツールなのかもしれない。
 - しかし、それらの見つかった論文群のセグメンテーションを行うためのツールではないと思われた -->
-
+![](../images/images_pages_posts/img_2026-01-16-23-06-51.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-06-51.png) -->
 ### Overview
 While Connected Papers was a tool for deep exploration from a single paper, ResearchRabbit, although similar in concept, focuses on discovering **similar and related papers** through iterative exploration, and it is said to be a tool that can input multiple papers at once to see the expansion and differentiation of the field.
 
@@ -259,7 +289,9 @@ While Connected Papers was a tool for deep exploration from a single paper, Rese
 ### Results
 - A graph like the following was output.
   
-  ![alt text](image-6.png)
+  ![](../images/images_pages_posts/img_2026-01-16-23-02-07.png)
+  <!-- Jekyll/GitHub Pages用 -->
+  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-02-07.png) -->
 
 - A total of 2000 related papers were found, and from among them, the ones with high "relevance" (this relevance is difficult; of course not simple citation, but based on Rabbit's unique search concept) are displayed in a map 20 at a time in order.
 - The graph is mapped with axes such as publication year and citation count. Through this connection, it can be seen which papers cite which papers.
@@ -366,6 +398,9 @@ o	clustering resolution
 ### 観察
 - **フィールドレベルの構造**に最適なツール
 - パラメータの慎重な解釈と記録が重要 -->
+![](../images/images_pages_posts/img_2026-01-16-23-08-38.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-08-38.png) -->
 
 ### Overview
 VOSviewer is a bibliometric visualization tool focusing on **co-occurrence and network structure**. It is essentially a viewer, but during use, I discovered that it already has API integration with OpenAlex, allowing search to map creation to be performed entirely within VOSviewer.
@@ -382,7 +417,10 @@ VOSviewer is a bibliometric visualization tool focusing on **co-occurrence and n
   - Binary counting
   - Minimum Occurrence: 5
   - Number of terms: 140
-![alt text](image-7.png)
+  
+  ![](../images/images_pages_posts/img_2026-01-16-23-09-40.png)
+  <!-- Jekyll/GitHub Pages用 -->
+  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-09-40.png) -->
   
 ### Understanding of VOSviewer
 Occurrence means → "How many papers the term appeared in". 
@@ -431,7 +469,11 @@ These two are different things, and it is common for their magnitudes to reverse
 
 ### Results
 - The results obtained under these conditions are as follows.
-![alt text](image-5.png)
+
+![](../images/images_pages_posts/img_2026-01-16-23-10-37.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-10-37.png) -->
+
 - Colors represent clusters of each field, the size of each circle indicates frequency, and the connecting lines show which keywords appear simultaneously.
 - It is very suitable for grasping the overall picture of the field, which is the purpose this time.
 - For example, I wanted to know how the thermal applications of Epoxy vitrimers are positioned within the entire Epoxy Vitrimers field, and this showed that this field is not the main one, but the part shown in red in the bottom right, and that Epoxy vitrimers are also expanding into fields such as composites and probably bio-based applications. Although not done this time, it might be possible to extract papers classified into this cluster from here again. (Postscript: I checked, but it seems not possible with VOSviewer alone. To do this, it seems good to use OpenAlex to search by combining the keyword Epoxy vitrimers with keywords included in the cluster, such as Thermal stability.)
@@ -449,8 +491,11 @@ These two are different things, and it is common for their magnitudes to reverse
     - clustering resolution
 
 - Also, in the viewer, distances are displayed only visually, but by processing the saved JSON results with Python, the distance and type of cluster for each keyword can be tabulated at once, allowing numerical quantification of distances. (VOSviewer_json_exporter.py)
+  
 - Here is the image of the table after CSV conversion. 
-![alt text](image-4.png)
+![](../images/images_pages_posts/img_2026-01-16-23-11-53.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-11-53.png) -->
 This is convenient for objective comparison with other results.
 
 ### Observations
@@ -486,15 +531,23 @@ Finally, I tried The Lens. It is a tool that integrates **academic literature an
 - From the top page, perform patent search: `(epoxy AND vitrimer)` only, very easy to use.
 - If necessary, filtering by patent status is also possible.
  
-  ![alt text](image-8.png)
+  ![](../images/images_pages_posts/img_2026-01-16-23-13-05.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-13-05.png) -->
+
 ### Results
-- In this search, approximately 500 patents were found.
-  ![alt text](image-9.png)
+- In this search, approximately 500 patents were found.  
+
+  ![](../images/images_pages_posts/img_2026-01-16-23-13-28.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-13-28.png) -->
+
 - The interface is very good, and it is possible to see at a glance who is applying, players, filing years, patent status. Very good.
 
-
 - This time, I wanted to narrow down to thermal applications, so I added "Heat resistance" or "Heat resistant" to the search with AND. As a result, it was narrowed down to about 160. From the degree of this number reduction, the importance of this keyword in patents can be measured. That is, about 1/3 of the patents discuss this keyword. In VOSviewer, academic papers were evaluated similarly, but thermal-related keywords were about 10-17th out of about 170. For now, there is no significant divergence in importance between academia and industry for this keyword.
-
+![](../images/images_pages_posts/img_2026-01-16-23-16-37.png)
+<!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-16-37.png) -->
 ### Observations
 - Unique strength in **science–technology linkage**
 - Essential for application-oriented analysis, also very easy to use, recommended
