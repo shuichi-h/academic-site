@@ -92,7 +92,8 @@ First, I tried Google Scholar, the most widely used tool. Google Scholar is the 
 - However, some non-reviews still appeared to be included, and the number of hits varied with each search, raising doubts about stability.
 - Additionally, to find important reviews from the results, I wanted to sort by citation, for example, but no such function was found.
   
-  ![](/images/images_pages_posts/image.png)
+![]({{site.baseurl}}/images/images_pages_posts/image.png)
+
 
 ### Observations
 - Appears excellent as an **entry point**.
