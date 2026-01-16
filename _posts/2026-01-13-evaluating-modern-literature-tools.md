@@ -91,9 +91,8 @@ First, I tried Google Scholar, the most widely used tool. Google Scholar is the 
 - There is a tool in the left tab to select only reviews, which reduced the results to about 1000.
 - However, some non-reviews still appeared to be included, and the number of hits varied with each search, raising doubts about stability.
 - Additionally, to find important reviews from the results, I wanted to sort by citation, for example, but no such function was found.
-  
-![]({{site.baseurl}}/images/images_pages_posts/image.png)
 
+![]({{site.baseurl}}/images/images_pages_posts/image.png)
 
 ### Observations
 - Appears excellent as an **entry point**.
@@ -125,9 +124,8 @@ Semantic Scholar applies AI-based methods to citation analysis, relevance rankin
 - Approximately 4400 results were retrieved.
 - However, no filter function was found to extract only true reviews from here.
   
-  ![](/images/images_pages_posts/image-2.png)
-    ![](/images/images_pages_posts/image-3.png)
-
+  ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-18-33-01.png)
+  
 ### Observations
 - No particular advantages were felt this time.
 
