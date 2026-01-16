@@ -170,8 +170,7 @@ OpenAlex is named after the Library of Alexandria and serves as an open-access b
 ### Results
 - It takes some time for results to appear.
 - However, once they do, all information such as Works, Stats, Topics, and Types is displayed at once, which is very good.
-- For this keyword, 30 hits were obtained, and further restricting to Type=review resulted in 7 results.
-  
+- For this keyword, 30 hits were obtained, and further restricting to Type=review resulted in 7 results.<br> 
   ![](../images/images_pages_posts/img_2026-01-16-22-59-27.png)
   <!-- Jekyll/GitHub Pages用 -->
   <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-22-59-27.png) -->
@@ -223,8 +222,7 @@ This time, using the 7 papers obtained from OpenAlex, I attempted to visualize s
 - For evaluation, simply enter the title or DOI of the paper to be evaluated in the search box on the top page and click "Build a graph".
 
 ### Results
-- For the first paper, a graph like the following was obtained.
-  
+- For the first paper, a graph like the following was obtained.<br> 
   ![](../images/images_pages_posts/img_2026-01-16-23-02-54.png)
 <!-- Jekyll/GitHub Pages用 -->
 <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-02-54.png) -->
@@ -235,9 +233,8 @@ This time, using the 7 papers obtained from OpenAlex, I attempted to visualize s
  
 - Next, I created a graph using the second paper as well.
 - A drawback is that Connected Papers allows only 5 graph creations per month for free accounts.
-- The graph for the second paper looked like the following.
-  
-    ![](../images/images_pages_posts/img_2026-01-16-23-04-55.png)
+- The graph for the second paper looked like the following.<br>
+  ![](../images/images_pages_posts/img_2026-01-16-23-04-55.png)
   <!-- Jekyll/GitHub Pages用 -->
   <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-04-55.png) -->
 
@@ -287,8 +284,7 @@ While Connected Papers was a tool for deep exploration from a single paper, Rese
 - Once the input set was ready, clicked "Similar Works".
 
 ### Results
-- A graph like the following was output.
-  
+- A graph like the following was output.<br>
   ![](../images/images_pages_posts/img_2026-01-16-23-02-07.png)
   <!-- Jekyll/GitHub Pages用 -->
   <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-02-07.png) -->
@@ -398,6 +394,7 @@ o	clustering resolution
 ### 観察
 - **フィールドレベルの構造**に最適なツール
 - パラメータの慎重な解釈と記録が重要 -->
+
 ![](../images/images_pages_posts/img_2026-01-16-23-08-38.png)
 <!-- Jekyll/GitHub Pages用 -->
 <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-08-38.png) -->
@@ -416,11 +413,10 @@ VOSviewer is a bibliometric visualization tool focusing on **co-occurrence and n
 - From here, the important part: this time, visualization was created under the following conditions:
   - Binary counting
   - Minimum Occurrence: 5
-  - Number of terms: 140
+  - Number of terms: 140<br>
   
-  ![](../images/images_pages_posts/img_2026-01-16-23-09-40.png)
-  <!-- Jekyll/GitHub Pages用 -->
-  <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-09-40.png) -->
+![](../images/images_pages_posts/img_2026-01-16-23-09-40.png) <!-- Jekyll/GitHub Pages用 -->
+<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-09-40.png) -->
   
 ### Understanding of VOSviewer
 Occurrence means → "How many papers the term appeared in". 
@@ -429,7 +425,7 @@ Relevance means → "How 'characteristic' the term is to this field" (= whether 
 
 These two are different things, and it is common for their magnitudes to reverse.
 
-1. What is Occurrence (occurrence count)?
+1. What is **Occurrence** (occurrence count)?
 
     Definition (VOSviewer's meaning):
     The number of documents in which the keyword appeared at least once.
@@ -448,7 +444,7 @@ These two are different things, and it is common for their magnitudes to reverse
 
     👉 Occurrence = Popularity (based on number of papers)
 
-2. What is Relevance (relevance)?
+2. What is **Relevance** (relevance)?
 
     Definition (official thinking)
     VOSviewer's Relevance is:
@@ -468,8 +464,7 @@ These two are different things, and it is common for their magnitudes to reverse
     Relevance = Field-likeness
 
 ### Results
-- The results obtained under these conditions are as follows.
-
+- The results obtained under these conditions are as follows.<br>
 ![](../images/images_pages_posts/img_2026-01-16-23-10-37.png)
 <!-- Jekyll/GitHub Pages用 -->
 <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-10-37.png) -->
@@ -492,7 +487,7 @@ These two are different things, and it is common for their magnitudes to reverse
 
 - Also, in the viewer, distances are displayed only visually, but by processing the saved JSON results with Python, the distance and type of cluster for each keyword can be tabulated at once, allowing numerical quantification of distances. (VOSviewer_json_exporter.py)
   
-- Here is the image of the table after CSV conversion. 
+- Here is the image of the table after CSV conversion. <br>
 ![](../images/images_pages_posts/img_2026-01-16-23-11-53.png)
 <!-- Jekyll/GitHub Pages用 -->
 <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-11-53.png) -->
@@ -501,9 +496,9 @@ This is convenient for objective comparison with other results.
 ### Observations
 - Best tool for **field-level structure**
 - Careful interpretation and recording of parameters are important
+
+
 ---
-
-
 ## 9. The Lens
 
 <!-- ### 概要
@@ -542,12 +537,13 @@ Finally, I tried The Lens. It is a tool that integrates **academic literature an
 <!-- Jekyll/GitHub Pages用 -->
 <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-13-28.png) -->
 
-- The interface is very good, and it is possible to see at a glance who is applying, players, filing years, patent status. Very good.
+- The interface is **very good**, and it is possible to see at a glance who is applying, players, filing years, patent status. Very good.
 
-- This time, I wanted to narrow down to thermal applications, so I added "Heat resistance" or "Heat resistant" to the search with AND. As a result, it was narrowed down to about 160. From the degree of this number reduction, the importance of this keyword in patents can be measured. That is, about 1/3 of the patents discuss this keyword. In VOSviewer, academic papers were evaluated similarly, but thermal-related keywords were about 10-17th out of about 170. For now, there is no significant divergence in importance between academia and industry for this keyword.
+- This time, I wanted to narrow down to thermal applications, so I added "Heat resistance" or "Heat resistant" to the search with AND. As a result, it was narrowed down to about 160. From the degree of this number reduction, the importance of this keyword in patents can be measured. That is, about 1/3 of the patents discuss this keyword. In VOSviewer, academic papers were evaluated similarly, but thermal-related keywords were about 10-17th out of about 170. For now, there is no significant divergence in importance between academia and industry for this keyword.<br>
 ![](../images/images_pages_posts/img_2026-01-16-23-16-37.png)
 <!-- Jekyll/GitHub Pages用 -->
 <!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-16-37.png) -->
+
 ### Observations
 - Unique strength in **science–technology linkage**
 - Essential for application-oriented analysis, also very easy to use, recommended
