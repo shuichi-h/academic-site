@@ -92,13 +92,9 @@ First, I tried Google Scholar, the most widely used tool. Google Scholar is the 
 - However, some non-reviews still appeared to be included, and the number of hits varied with each search, raising doubts about stability.
 - Additionally, to find important reviews from the results, I wanted to sort by citation, for example, but no such function was found.
 
-![](../images/images_pages_posts/img_2026-01-16-23-21-14.png)
-<!-- Jekyll/GitHub Pages用 -->
-<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-21-14.png) -->
+![image]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-21-14.png)
 
-![](../images/images_pages_posts/img_2026-01-16-23-21-29.png)
-<!-- Jekyll/GitHub Pages用 -->
-<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-21-29.png) -->
+![image]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-21-29.png) 
 
 ### Observations
 - Appears excellent as an **entry point**.
@@ -488,9 +484,8 @@ These two are different things, and it is common for their magnitudes to reverse
 - Also, in the viewer, distances are displayed only visually, but by processing the saved JSON results with Python, the distance and type of cluster for each keyword can be tabulated at once, allowing numerical quantification of distances. (VOSviewer_json_exporter.py)
   
 - Here is the image of the table after CSV conversion. <br>
-![](../images/images_pages_posts/img_2026-01-16-23-11-53.png)
-<!-- Jekyll/GitHub Pages用 -->
-<!-- ![]({{site.baseurl}}/images/images_pages_posts/img_2026-01-16-23-11-53.png) -->
+![image]({{site.baseurl}}/images/images_pages_posts/img_2026-01-17-23-21-01.png)
+
 This is convenient for objective comparison with other results.
 
 ### Observations
