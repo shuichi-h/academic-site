@@ -10,7 +10,8 @@ Mettler Toledo TGA/DSC3+
 
 ## SOP
 
-- [Standard Operating Procedure (PDF)](/academic-site/assets/pdfs/SOP_TGA_v1.pdf)
+[Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_TGA_v1.pdf)
+
 
 ## Tips
 - Keep sample trays and crucibles clean at all times.Even a small impurity on the crucible bottom can cause fusion and permanent damage.  
@@ -18,21 +19,32 @@ Mettler Toledo TGA/DSC3+
 - Remember, the crucibles are alumina.Always consider possible reactions with your sample.
 - Do not overload the crucible.Use a lid if necessary.
 
-## Log (Error, Troubleshooting)
-### 2025-12-16 — Heating error
-**Symptom**  
-TGA cannot heat up to the starting temperature (e.g. 35 °C).
+## Error log
+
+### 2025-12-16  — Heating error, Cell temperature reading is unrealistically low
+
+**Log**  
+TGA cannot heat up to the starting temperature (35 °C).
 Cell temperature shows an unrealistic value of 12 °C.
 
 **Cause**  
 The heating element reached the end of its expected lifetime (approximately 5 years).
 
-**Action**  
-TBD.  
+**Action taken**  
 Full furnace replacement planned.
 
 **Status**  
 Waiting.
+
+## IF → DO (for users)  
+**IF**
+- Cannot reach start temperature (~35 °C)
+- Cell temperature reading is unrealistically low  
+
+**DO** 
+- Stop measurement  
+- Do not retry heating  
+- Contact instrument responsible  
 
 
 ← [Back to Instruments](/academic-site/instruments/)

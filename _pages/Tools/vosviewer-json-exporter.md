@@ -13,7 +13,7 @@ A Python script to process VOSviewer JSON output files and export keyword distan
 - Useful for comparing field structures across different literature searches
 
 ### Download
-[Download VOSviewer_json_exporter.py]({{site.url}}/files/VOSviewer_json_exporter.py)
+[Download VOSviewer_json_exporter.py]({{site.baseurl}}/files/VOSviewer_json_exporter.py)
 
 ### Usage
 Run the script with Python 3:
