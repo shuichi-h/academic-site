@@ -23,4 +23,6 @@ python VOSviewer_json_exporter.py
 Follow the prompts to select your JSON file and output location.
 
 ### Result Example
-![image]({{site.baseurl}}/images/images_pages_posts/img_2026-01-17-23-21-01.png)
+![image](/academic-site/images/images_pages_posts/img_2026-01-17-23-21-01.png)
+
+

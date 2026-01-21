@@ -1,20 +1,20 @@
 ---
-title: DVS – Dynamic Vapor Sorption
-permalink: /instruments/dvs/
+title: DSC - Differential Scanning Calorimetry
+permalink: /instruments/dsc/
 layout: single
 author_profile: true
 ---
 
 ## Model
-Surface Measurement Systems, DVS Adventure
+
 
 ## SOP
 
-[Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_DVS_v1.pdf)
+[Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_DSC_v1.pdf)
 
 ## Tips
 ## Error log
-### 2025-12-16
+### YYYYMMDD
 **Log**
 **Cause**
 **Action taken**

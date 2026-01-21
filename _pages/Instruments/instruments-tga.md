@@ -43,8 +43,8 @@ Waiting.
 
 **DO** 
 - Stop measurement  
-- Do not retry heating  
-- Contact instrument responsible  
+- Do not retry heating
+- Contact instrument responsible
 
 
 ← [Back to Instruments](/academic-site/instruments/)
