@@ -48,7 +48,7 @@ Taken together, such that the elastic modulus derived from OP analysis does not 
 An example is provided by the study of Paleti et al. (*S. H. K. Paleti et al., “Benchmarking the Elastic Modulus of Conjugated Polymers with Nanoindentation,” Macromolecules, 2025*), in which elastic moduli of conjugated polymers, including polythiophene derivatives, were evaluated using the Oliver–Pharr method.  
 By compiling nanoindentation-derived moduli reported in the literature and comparing them with values obtained from bulk techniques such as dynamic mechanical analysis (DMA), the authors showed that OP-based moduli exhibit both systematic deviations from DMA values and substantial scatter across different studies.
 
-![image]({{site.baseurl}}/images/images_pages_posts/img_2026-02-02-13-08-49.png)
+![image]({{site.baseurl}}/images/images_pages_posts/img_2026-02-04-14-26-34.png)
 
 **Figure**: Elastic modulus *E* of regioregular P3HT measured using various experimental techniques, including DMA, AFM-based methods, and nanoindentation (Oliver–Pharr and creep analysis), reproduced from Paleti et al.
 
@@ -67,17 +67,26 @@ In the previous paper (*Macromolecules*, 2025), they performed creep nanoindenta
 
 ![image]({{site.baseurl}}/images/images_pages_posts/img_2026-02-02-13-29-09.png)
 
+**Figure**. Representative creep analysis of a regioregular P3HT film (thickness d ≈ 4 μm; loading rate = 16 μN s–1; Phold = 80 μN). (a) Load cycle composed of a rapid loading and unloading step as well as a long hold segment during which the load *P*(t) = Phold is constant with indentation time t; (b) displacement curve corresponding to the change in indentation depth *h*(t) during the hold segment; and (c) shear creep compliance J(t) during the hold segment and shear modulus Ge, obtained from *J*(t) , reproduced from Paleti et al.
+<br>
+
+
 The resulting moduli were found to be consistent in order of magnitude with independently measured bulk dynamic mechanical analysis (DMA) values for the same material, supporting the physical plausibility of the creep-based approach.
 
 This paper was fine because this only discussing the same type of materials in the same method, **but the obtained compliance and modulus values must be interpreted with care. Because the compliance reflects both *intrinsic material response* and the *mechanical constraint imposed by the indenter geometry***.
+<br>
+### Creep-based method and the dependence to the contact depth and constraint
 
-Constraint refers to the apparent increase in stiffness arising from the restriction of deformation freedom—particularly lateral flow—imposed by the indenter geometry and contact conditions.
+**Constraint** refers to the apparent increase in stiffness arising from the restriction of deformation freedom—particularly lateral flow—imposed by the indenter geometry and contact conditions.
 For a Berkovich indenter, increasing indentation depth reduces the relative lateral constraint imposed on the material compared to the rapidly increasing contact area, which can lead to an apparent decrease in stiffness or elastic modulus even for the same material.
 
 
 For this reason, to compare values between with materials or literature values, absolute modulus values alone is not ideal. The shape of the time-dependent response, as captured by normalized compliance or scaling exponents can also provides a more reliable basis.
 
 ![image]({{site.baseurl}}/images/images_pages_posts/img_2026-02-03-17-31-00.png)
+
+**Figure**. Schematic illustration of the relation of contact depth and contact area and constraint volume.
+
 
 Creep-based nanoindentation can provides complementary information as follows :
 
@@ -116,7 +125,7 @@ And here are the typical creep exponent value and their corresponding material b
 
 According to the discussion points from above, a practical baseline protocol for soft materials can be summarized as follows.
 
-#### Step 1: Multiple Peak Loads
+### Step 1: Multiple Peak Loads
 
 - Perform Berkovich nanoindentation at **three to five distinct peak loads**.
 - Allow the resulting indentation depths to emerge naturally from the material response.
@@ -126,7 +135,7 @@ This ensures that both shallow and deeper deformation regimes are sampled withou
 
 ---
 
-#### Step 2: Creep Analysis at Each Condition
+### Step 2: Creep Analysis at Each Condition
 
 For each indentation condition, extract:
 
@@ -144,7 +153,7 @@ If the scaling exponent remains invariant across loads or depths, this indicates
 
 ---
 
-#### Option 1 Role of nanoDMA: Complement, Not Replacement
+### Option 1 Role of nanoDMA: Complement, Not Replacement
 
 When quantitative comparison across materials is required, **nanoDMA** provides an important complementary tool.
 
@@ -161,7 +170,7 @@ For this reason, nanoDMA measurements should be conducted **at multiple loads or
 
 ---
 
-#### Option 2; Alternative Indenter Geometries
+### Option 2; Alternative Indenter Geometries
 Indenter geometry plays a central role in determining mechanical constraint.
 
 While the Berkovich indenter offers excellent reproducibility and well-established analysis frameworks, its self-similar geometry leads to a continuously evolving constraint with increasing depth.
@@ -224,7 +233,7 @@ Only quantities that are typically available from standard nanoindentation outpu
 
 ---
 
-#### Parameter Definitions
+### Parameter Definitions
 
 | Symbol | Meaning | Typical Value / Comment |
 |-----|--------|------------------------|
@@ -235,7 +244,7 @@ Only quantities that are typically available from standard nanoindentation outpu
 
 ---
 
-#### Practical Notes
+### Practical Notes
 
 - Absolute values depend on **indentation depth and constraint**
 - Normalized compliance and exponent *m* are more robust for comparison
