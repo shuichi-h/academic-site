@@ -9,7 +9,6 @@ tags:
 author_profile: true
 ---
 
-## Abstract
 This page is intended to support the design of nanoindentation experiments that can be carried out smoothly and interpreted without regret after measurement.
 For soft and thin films in particular, the extracted mechanical properties can vary significantly depending on measurement conditions and analysis methods.
 This sensitivity makes careful experimental design essential when comparing results across different materials or with values reported in the literature.

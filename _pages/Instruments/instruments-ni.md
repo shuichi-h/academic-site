@@ -10,15 +10,18 @@ Bruker TI Premier
 
 ## SOP
 
-[Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_NI_v1.pdf)
+[Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_NI_v2.pdf)
 
 ## Tips
-## Error log
-### 2025-12-16
-**Log**
-**Cause**
-**Action taken**
-**Status**
+- The nano indenter tip is sensitive. Don’t touch without the machine’s responsible person.
+
+## log
+### 2025-09-12
+**Log** : Relocation, software update, ADC update 
+**Cause** : Relocation
+**Action taken** : 
+**Status** : 
+
 ## IF → DO (for users)  
 **IF**
 **DO**

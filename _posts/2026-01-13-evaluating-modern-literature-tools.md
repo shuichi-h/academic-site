@@ -10,16 +10,6 @@ tags:
 author_profile: true
 ---
 
-## 1. Motivation
-
-<!-- 近年、科学文献の量は指数関数的に増えており、個々の研究者が手動で読むだけで追跡できる範囲を超えています。しかし同時に、研究分野の発見、マッピング、理解をより効率的にサポートすると主張する幅広い**文献探索ツール**が登場しています。
-
-今回、近年新しく出てきている**現代の文献探索ツールが、研究背景の把握や文献調査においてどの程度有用なのか、*エポキシビトリマー*を具体的な現実的なケーススタディとして使用して、評価を行った。
-
-中心的な質問は：
-
-> *新規分野における研究把握において、現在のツールがどの程度役に立つか。* -->
-
 In recent years, the volume of scientific literature has grown exponentially, exceeding what individual researchers can reasonably track through manual reading alone. At the same time, a wide range of **literature exploration tools** has emerged, claiming to support more efficient discovery, mapping, and understanding of research fields.
 
 This note evaluates **how effective recently emerging modern literature exploration tools are in grasping research backgrounds and conducting literature surveys**, using *epoxy vitrimers* as a concrete and realistic case study.
