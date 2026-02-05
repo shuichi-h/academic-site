@@ -17,13 +17,13 @@ Bruker TI Premier
 
 ## log
 ### 2025-09-12
-**Log** : Relocation, software update, ADC update 
-**Cause** : Relocation
-**Action taken** : 
-**Status** : 
+- **Log** : Relocation, software update, ADC update
+- **Cause** : Relocation
+- **Action taken** :   
+- **Status** :  
 
 ## IF → DO (for users)  
-**IF**
-**DO**
+- **IF** : FQ values doesn't match with literature value
+- **DO** : Clean FQ surface, Replace FQ in stable position
 
 ← [Back to Instruments](/academic-site/instruments/)
