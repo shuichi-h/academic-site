@@ -34,7 +34,7 @@ The heating element reached the end of its expected lifetime (approximately 5 ye
 Full furnace replacement planned.
 
 **Status**  
-Waiting.
+Full furnace replaced, 20260220
 
 ## IF → DO (for users)  
 **IF**
