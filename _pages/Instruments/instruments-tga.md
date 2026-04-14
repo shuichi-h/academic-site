@@ -5,38 +5,21 @@ layout: single
 author_profile: true
 ---
 
-## About TGA (Thermogravimetric Analysis)
+## Overview
 
-**Thermogravimetric Analysis (TGA)** is a thermal analysis technique that measures the mass of a sample as a function of temperature or time. It provides information about physical phenomena (phase transitions, absorption, adsorption) and chemical processes (thermal decomposition, oxidation, reduction, and solid-gas reactions).
+The Mettler Toledo TGA/DSC3+ is used for thermogravimetric analysis of polymers, organics, and inorganic materials. It is configured for stable mass-loss measurements with a large furnace and a sensitive balance.
 
-### Applications
-- **Material characterization** through decomposition patterns
-- **Thermal stability** evaluation of polymers and materials
-- **Oxidation and combustion** analysis
-- **Thermal decomposition kinetics**
-- Especially useful for polymers, composites, coatings, and materials containing volatile components
+![TGA instrument setup]({{site.baseurl}}/images/TGA_photo.png)
 
----
+## Representative Specifications
 
-## Instrument: Mettler Toledo TGA/DSC3+
-
-**Model:** Mettler Toledo TGA/DSC3+
-
-**System Configuration:**
-The Mettler Toledo TGA/DSC3+ is a coupled thermogravimetric analyzer and differential scanning calorimeter. It consists of:
-- Precision analytical balance with microbalance capability
-- Programmable furnace with heating control
-- Sample pan positioned inside furnace
-- Multiple gas inlet options for different atmospheres (inert gas, oxidizing gases, etc.)
-- Temperature range: Ambient up to 950 °C (TGA)
-
-**Typical TGA Setup:**
-A standard TGA system includes:
-1. Precision balance for continuous mass measurement
-2. Sample pan and reference pan
-3. Programmable furnace
-4. Temperature control unit
-5. Gas purge system for various atmospheres
+- Model: TGA/DSC3+ LF
+- Temperature range: RT to 1100 °C
+- Temperature accuracy: ±0.3 K
+- Heating rate: up to 150 K/min
+- Cooling time (1100 to 100 °C) with helium: ≤ 11 min
+- Balance resolution: 0.1 µg
+- Minimum sample weight: ~0.16 mg
 
 ---
 
