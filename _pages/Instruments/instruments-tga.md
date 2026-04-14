@@ -14,37 +14,12 @@ Mettler Toledo TGA/DSC3+
 
 
 ## Tips
-- Keep sample trays and crucibles clean at all times.Even a small impurity on the crucible bottom can cause fusion and permanent damage.  
-- Be extremely careful with metals or inorganic salts that do not decompose at high temperatures.Once they contaminate the holder, the residue cannot be removed and the damage is irreversible.  
-- Remember, the crucibles are alumina.Always consider possible reactions with your sample.
-- Do not overload the crucible.Use a lid if necessary.
+- Keep sample trays and crucibles clean at all times.Even a small impurity on the crucible bottom can cause fusion and permanent damage.  
+- Be extremely careful with metals or inorganic salts that do not decompose at high temperatures.Once they contaminate the holder, the residue cannot be removed and the damage is irreversible.  
+- Remember, the crucibles are alumina.Always consider possible reactions with your sample.
+- Do not overload the crucible.Use a lid if necessary.
 
-## Error log
-
-### 2025-12-16  — Heating error, Cell temperature reading is unrealistically low
-
-**Log**  
-TGA cannot heat up to the starting temperature (35 °C).
-Cell temperature shows an unrealistic value of 12 °C.
-
-**Cause**  
-The heating element reached the end of its expected lifetime (approximately 5 years).
-
-**Action taken**  
-Full furnace replacement planned.
-
-**Status**  
-Full furnace replaced, 20260220
-
-## IF → DO (for users)  
-**IF**
-- Cannot reach start temperature (~35 °C)
-- Cell temperature reading is unrealistically low  
-
-**DO** 
-- Stop measurement  
-- Do not retry heating
-- Contact instrument responsible
-
+## Troubleshooting & Maintenance
+[View Error Log & Troubleshooting Guide](/academic-site/instruments/tga-troubleshooting/)
 
 ← [Back to Instruments](/academic-site/instruments/)

@@ -13,13 +13,8 @@ Surface Measurement Systems, DVS Adventure
 [Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_DVS_v1.pdf)
 
 ## Tips
-## Error log
-### 2025-12-16
-**Log**
-**Cause**
-**Action taken**
-**Status**
-## IF → DO (for users)  
-**IF**
-**DO**
+
+## Troubleshooting & Maintenance
+[View Error Log & Troubleshooting Guide](/academic-site/instruments/dvs-troubleshooting/)
+
 ← [Back to Instruments](/academic-site/instruments/)

@@ -13,13 +13,8 @@ author_profile: true
 [Standard Operating Procedure (PDF)]({{site.baseurl}}/files/SOP_DSC_v1.pdf)
 
 ## Tips
-## Error log
-### YYYYMMDD
-**Log**
-**Cause**
-**Action taken**
-**Status**
-## IF → DO (for users)  
-**IF**
-**DO**
+
+## Troubleshooting & Maintenance
+[View Error Log & Troubleshooting Guide](/academic-site/instruments/dsc-troubleshooting/)
+
 ← [Back to Instruments](/academic-site/instruments/)
