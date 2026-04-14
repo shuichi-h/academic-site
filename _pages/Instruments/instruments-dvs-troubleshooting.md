@@ -1,19 +1,13 @@
 ---
-title: "DVS – Troubleshooting & Error Log"
+title: "DVS – Error Log & Updates"
 permalink: /instruments/dvs-troubleshooting/
 layout: single
 author_profile: true
 ---
 
-## Error Log
+## Error Log & Updates Timeline
 
-(No incidents recorded yet. Please contact the instrument responsible if you encounter issues.)
-
----
-
-## IF → DO (for users)
-
-(To be updated based on operational experience.)
+(No incidents recorded yet. Updates and issues will be documented here as they occur.)
 
 ---
 

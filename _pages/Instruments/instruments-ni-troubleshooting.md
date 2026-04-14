@@ -1,25 +1,25 @@
 ---
-title: "Nanoindentation (NI) – Troubleshooting & Error Log"
+title: "Nanoindentation (NI) – Error Log & Updates"
 permalink: /instruments/ni-troubleshooting/
 layout: single
 author_profile: true
 ---
 
-## Error Log
+## Error Log & Updates Timeline
 
-### 2025-09-12
-**Log:** Relocation, software update, ADC update  
-**Cause:** Relocation  
-**Action taken:** —  
-**Status:** —  
+### 2025-09-12 — System Relocation & Software Update
 
----
+**Log:**  
+Relocation, software update, ADC update.
 
-## IF → DO (for users)
+**Cause:**  
+Planned relocation and maintenance.
 
-| IF | DO |
-|---|---|
-| FQ values doesn't match with literature value | Clean FQ surface, Replace FQ in stable position |
+**Action Taken:**  
+System moved and configured.
+
+**Status:**  
+Operational.
 
 ---
 
