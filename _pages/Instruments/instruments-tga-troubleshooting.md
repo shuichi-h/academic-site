@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2026-03-06 — Crucible Stuck on Holder: Alkali Salt Migration (Cs2MoO4)
 
-![TGA Incident Report - Crucible Stuck]({{site.baseurl}}/images/TGA_incident_20260306_Cs_stuck.png)
+![TGA Incident Report - Crucible Stuck]({{site.baseurl}}images/TGA rules2.png)
 
 ---
 
